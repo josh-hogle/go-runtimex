@@ -37,4 +37,4 @@ This module is distributed under the MIT License.
 
 ## ❓ Questions, Issues and Feature Requests
 
-If you have questions about this project, find a bug or wish to submit a feature request, please [submit an issue](https://github.com/joshhogle/go-runtimex/issues).
+If you have questions about this project, find a bug or wish to submit a feature request, please [submit an issue](https://github.com/josh-hogle/go-runtimex/issues).
